@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📖 discrete math, programming methodology<br>📚 I'm currently learning to use flask and flutter <br>🎯 Goals: Develop an app to wake up your brain in the morning<br> 📧 school: kabirsharma@umass.edu, personal: kabirsh2004@gmail.com</p>
+<p align="left">📖 discrete math, programming methodology<br>📚 I'm currently learning about MCP servers <br>🎯 Goals: Develop an app to wake up your brain in the morning<br> 📧 school: kabirsharma@umass.edu, personal: kabirsh2004@gmail.com</p>
 
 ###
 
